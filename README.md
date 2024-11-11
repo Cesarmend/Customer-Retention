@@ -1,4 +1,4 @@
-![Customer Retention Dashboard](.Dashboard_preview.png)
+![Customer Retention Dashboard](Dashboard_preview.png)
 
 # Customer Retention Strategy Dashboard
 
